@@ -860,7 +860,7 @@ form label {
   position: absolute;
   position: fixed;
   z-index: 1901;
-  width: 270px;
+  width: 275px;
   background: black;
   top: 0;
   right: 0;
@@ -1229,7 +1229,7 @@ form label {
 
 .btn-outline {
   background: none;
-  border: 2px solid gray;
+  border: 2px solid black;
   font-size: 16px;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
@@ -1268,7 +1268,7 @@ form label {
 
 #gtco-contact h3 {
   color: #fff;
-  font-size: 30px;
+  font-size: 28px;
 }
 
 .row-pb-md {
@@ -1285,7 +1285,7 @@ form label {
   top: 0px;
   width: 100%;
   height: 100%;
-  z-index: 9999;
+  z-index: 999;
   background: url(../images/loader.gif) center no-repeat #fff;
 }
 
